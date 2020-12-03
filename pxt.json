@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "giggle": "github:dexterind/pxt-giggle#v2.0.3"
+        "giggle": "github:dexterind/pxt-giggle#v2.0.3",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.ts",
